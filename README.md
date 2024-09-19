@@ -21,6 +21,8 @@ Key Difference: PhD programs focus on producing original research, while Master'
  1. [ The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
  2. [PhD Admissions Advice](https://cfiesler.medium.com/phd-admissions-advice-b7a44f97417a)
  3. [Is getting a PhD worth the effort?](https://www.youtube.com/watch?v=bC-oOxCJZXY)
+ 4. [The REAL difference between a PhD and a Masters](https://www.youtube.com/watch?v=yEbdSFFyO4w&ab_channel=AndyStapleton)
+ 5. [Should you apply for a Masters or PhD? Questions to ask yourself](https://www.youtube.com/watch?v=AaZ5cLr_6M4&ab_channel=BonChonJonJon)
 
 ## Application Components
 
