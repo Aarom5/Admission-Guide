@@ -139,4 +139,4 @@ Tips:
 3. [Fall 2024 Graduate Application Guidebook for International Students](https://www.youtube.com/watch?v=9NRwtjJNKKE&pp=ygUjZ3JhZHVhdGUgc2Nob29sIGFwcGxpY2F0aW9uIHByb2Nlc3M%3D)
  
 
-Remember, the graduate school application process is competitive and time-consuming. Start early, stay organized, and put your best effort into each component of your application. Please feel free to connect with me regarding any of the above. Best of Luck :)
+Remember, the graduate school application process is competitive and time-consuming. Start early, stay organized, and put your best effort into each component of your application. Please feel free to connect with me on [LinkeldIn](https://www.linkedin.com/in/mamoon-khursheed-50a911205/) regarding any of the above. Best of Luck :)
