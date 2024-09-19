@@ -1,4 +1,5 @@
 
+
 # Graduate School Admissions: A Comprehensive Guide
 
 ## PhD vs. Master's Degrees
@@ -46,7 +47,7 @@ Further Info:
  2. [Building Your CV Guide for Graduate Students](https://careerdevelopment.princeton.edu/guides/resume-cv-cover-letter-diversity-statement/building-your-cv-guide-graduate-students)
  3. [Perfect Academic CV For Graduate School | Top Tips](https://www.youtube.com/watch?v=DpivQkpziSY&ab_channel=DrAminaYonis)
  4. [Templates and Examples](https://gradcareers.nd.edu/application-process/templates-and-examples/)
- 5. 
+ 5. [Free Resume Builder Website](https://flowcv.com/)
 
 ### 2. Statement of Purpose (SOP)
 
@@ -63,9 +64,17 @@ Tips:
 - Be specific and authentic
 - Demonstrate knowledge of the program and faculty
 - Show how your background has prepared you for graduate studies
+- The most important aspect of an SOP is demonstrating **research fit** with a faculty member
 - Keep it concise (usually 1-2 pages)
 
-[Space for 2-5 links on writing an effective SOP]
+Further info:
+ 1. [Structure is Magic (A Guide to the Graduate SOP)](https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
+ 2. [PhD SOP Starter Kit](https://writeivy.mykajabi.com/phd-sop-starter-kit)
+ 3. [How to Show Fit in Your SOP](https://writeivy.com/how-to-show-fit-in-your-sop/)
+ 4.  [Writing the Statement of Purpose](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/)
+ 5. [Graduate School Statement of Purpose](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
+ 6. [Tips for Writing PhD or Masters Statement of Purpose](https://www.youtube.com/watch?v=0zOAS8f4aK8)
+
 
 ### 3. Letters of Recommendation (LOR)
 
@@ -75,13 +84,17 @@ Key aspects:
 - Usually 3 letters are required
 - Should be from people who know you well academically or professionally
 - Strong letters highlight your unique strengths and potential
+- Generic letters don't help at all, specific points should be always written
 
 Tips for requesting LORs:
 - Ask early (at least a month before the deadline)
 - Provide your recommenders with your CV and any relevant information
 - Choose recommenders who can speak specifically about your abilities
 
-[Space for 2-5 links on obtaining strong LORs]
+Further info:
+ 1. [Grad School Letters of Recommendation: The Ultimate Guide](https://writeivy.com/grad-school-letters-of-recommendation-the-ultimate-guide/)
+ 2. [Grad Applications 101: Getting Letters of Rec](https://graduate.rice.edu/news/current-news/grad-applications-101-getting-letters-rec)
+ 3. [How to Write a Letter of Recommendation for Graduate School](https://online.usc.edu/news/how-to-write-a-letter-of-recommendation-for-graduate-school/)
 
 ### 4. Transcripts
 
@@ -89,9 +102,8 @@ Official academic records from all post-secondary institutions you've attended.
 
 Key points:
 - Must be official copies sent directly from your previous institutions
-- Include explanations for any unusual grades or circumstances in your SOP (Just 2-3 lines not more than that)
+- Include explanations for any unusual grades or circumstances in your SOP (Just 2-3 lines, not more than that)
 
-[Space for 2-5 links on transcript requirements]
 
 ### 5. Standardized Test Scores
 
@@ -104,40 +116,25 @@ Tips:
 - Prepare well in advance (1 month for preparation)
 - Some programs may waive these requirements, so check their policies
 
-[Space for 2-5 links on test preparation]
-
-### 6. Writing Sample (for some programs)
-
-A sample of your academic writing, usually required for humanities and social sciences.
-
-Tips:
-- Choose a piece that showcases your research and writing skills
-- Ensure it's relevant to your intended field of study
-- Edit and proofread carefully
-
-[Space for 2-5 links on academic writing]
+ 1. [TOEFL iBT](https://www.ets.org/toefl/test-takers/ibt/about.html)
+ 2. [TOEFL IBT 6th Edition Book](https://drive.google.com/drive/folders/1-nvCk6_JhUDMhPs_RHSbh8OmegICZstH?usp=sharing)
+ 3. [TOEFL Free Resources](https://tstprep.com/free-resources/)
+ 4. [TOEFL Free Resources - 2](https://www.notefull.com/product/free-course-for-all-toefl-sections/)
 
 ## Application Process
 
-1. Research programs and identify your top choices
-2. Note application deadlines and requirements for each program
-3. Prepare all required documents well in advance
-4. Take necessary standardized tests
-5. Request letters of recommendation
-6. Write and refine your Statement of Purpose
-7. Submit applications, typically online
-8. Follow up to ensure all materials have been received
+ 1. Research programs and identify your top choices
+ 2. Note application deadlines and requirements for each program
+ 3. Prepare all required documents well in advance
+ 4. Take necessary standardized tests
+ 5. Request letters of recommendation
+ 6. Write and refine your Statement of Purpose (through feedback)
+ 7. Submit applications, typically online
+ 
+ Further Info:
+1. [All about Grad School Application Process](https://www.youtube.com/watch?v=szA0SEXj1jE&ab_channel=videsh)
+2. [How to build your profile for grad school applications](https://www.youtube.com/watch?v=D-gkVVcNPbw)
+3. [Fall 2024 Graduate Application Guidebook for International Students](https://www.youtube.com/watch?v=9NRwtjJNKKE&pp=ygUjZ3JhZHVhdGUgc2Nob29sIGFwcGxpY2F0aW9uIHByb2Nlc3M%3D)
+ 
 
-[Space for 2-5 links on the application process]
-
-## After Applying
-
-- Prepare for potential interviews
-- Consider visiting campuses if invited
-- Be patient during the waiting period
-- If accepted, carefully consider offers and funding packages
-- If rejected, seek feedback for future applications
-
-[Space for 2-5 links on post-application steps]
-
-Remember, the graduate school application process is competitive and time-consuming. Start early, stay organized, and put your best effort into each component of your application.
+Remember, the graduate school application process is competitive and time-consuming. Start early, stay organized, and put your best effort into each component of your application. Please feel free to connect with me regarding any of the above. Best of Luck :)
