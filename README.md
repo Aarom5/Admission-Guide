@@ -47,7 +47,7 @@ Further Info:
 
  1. [Resumes and CVs](https://gradschool.cornell.edu/career-and-professional-development/pathways-to-success/prepare-for-your-career/take-action/resumes-and-cvs/)
  2. [Building Your CV Guide for Graduate Students](https://careerdevelopment.princeton.edu/guides/resume-cv-cover-letter-diversity-statement/building-your-cv-guide-graduate-students)
- 3. [Perfect Academic CV For Graduate School | Top Tips](https://www.youtube.com/watch?v=DpivQkpziSY&ab_channel=DrAminaYonis)
+ 3. [Perfect Academic CV For Graduate School Top Tips](https://www.youtube.com/watch?v=DpivQkpziSY&ab_channel=DrAminaYonis)
  4. [Templates and Examples](https://gradcareers.nd.edu/application-process/templates-and-examples/)
  5. [Free Resume Builder Website](https://flowcv.com/)
 
