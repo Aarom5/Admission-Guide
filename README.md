@@ -138,7 +138,7 @@ Tips:
 2. [How to build your profile for grad school applications](https://www.youtube.com/watch?v=D-gkVVcNPbw)
 3. [Fall 2024 Graduate Application Guidebook for International Students](https://www.youtube.com/watch?v=9NRwtjJNKKE&pp=ygUjZ3JhZHVhdGUgc2Nob29sIGFwcGxpY2F0aW9uIHByb2Nlc3M%3D)
 4. [PhD Admissions: Emailing Potential Advisors]((https://first-gen-guide.com/2020/07/24/phd-admissions-emailing-potential-advisors/))
-5. [Comprehensive Resources for Grad School]((https://first-gen-guide.com/resources/)
+5. [Comprehensive Resources for Grad School](https://first-gen-guide.com/resources/)
 6. [Machine Learning PhD Applications — Everything You Need to Know](https://timdettmers.com/2018/11/26/phd-applications/)
  
 
